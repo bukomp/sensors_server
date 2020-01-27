@@ -1,0 +1,374 @@
+
+[1.0.2020 11:47:26] Redirecting server running on port 1112
+[1.0.2020 11:47:26] Server running on port 2222
+[1.0.2020 11:47:54] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[1.0.2020 11:48:6] 
+Method: GET
+Path:   /socket.io/socket.io.js
+Body:   {}
+---
+[1.0.2020 11:50:41] Redirecting server running on port 1112
+[1.0.2020 11:50:41] Server running on port 2222
+[1.0.2020 11:50:44] 
+Method: GET
+Path:   /socket.io/socket.io.js
+Body:   {}
+---
+[1.0.2020 11:50:45] 
+Method: GET
+Path:   /socket.io/socket.io.js
+Body:   {}
+---
+[1.0.2020 11:52:42] Redirecting server running on port 1112
+[1.0.2020 11:52:42] Server running on port 2222
+[1.0.2020 11:52:46] 
+Method: GET
+Path:   /socket.io/socket.io.js
+Body:   {}
+---
+[1.0.2020 11:54:28] Redirecting server running on port 1112
+[1.0.2020 11:54:28] Server running on port 2222
+[1.0.2020 11:54:31] 
+Method: GET
+Path:   /favicon.ico
+Body:   {}
+---
+[1.0.2020 19:41:29] Redirecting server running on port 1112
+[1.0.2020 19:41:29] Server running on port 2222
+[1.0.2020 19:41:30] Connection [Mon Jan 27 2020 19:41:30 GMT+0200 (GMT+02:00)]
+[1.0.2020 19:41:32] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[1.0.2020 19:43:59] Redirecting server running on port 1112
+[1.0.2020 19:43:59] Server running on port 2222
+[1.0.2020 19:44:0] Socket kMWq1-2FrExAiOhDAAAA connected
+[1.0.2020 19:45:44] Redirecting server running on port 1112
+[1.0.2020 19:45:44] Server running on port 2222
+[1.0.2020 19:45:44] Socket 935D6neUPK5IhETzAAAA connected
+[1.0.2020 19:55:56] Redirecting server running on port 1112
+[1.0.2020 19:55:56] Server running on port 2222
+[1.0.2020 19:55:56] Socket X_d6gFcpGA7n0Ro1AAAA connected
+[1.0.2020 19:57:22] Redirecting server running on port 1112
+[1.0.2020 19:57:22] Server running on port 2222
+[1.0.2020 19:57:23] Socket Y206Hv9xygOeR69BAAAA connected
+[1.0.2020 19:57:43] Redirecting server running on port 1112
+[1.0.2020 19:57:43] Server running on port 2222
+[1.0.2020 19:57:43] Socket 4h_PlpelJpz0POXzAAAA connected
+[1.0.2020 19:59:5] Redirecting server running on port 1112
+[1.0.2020 19:59:5] Server running on port 2222
+[1.0.2020 19:59:5] Socket oGejBjoBb1K1w_R6AAAA connected
+[1.0.2020 20:0:32] Redirecting server running on port 1112
+[1.0.2020 20:0:32] Server running on port 2222
+[1.0.2020 20:0:32] Socket qQPFuDlllUJvhhqtAAAA connected
+[1.0.2020 20:1:46] Redirecting server running on port 1112
+[1.0.2020 20:1:46] Server running on port 2222
+[1.0.2020 20:1:47] Socket jSQvsprBp6g8D9IDAAAA connected
+[1.0.2020 20:3:16] Redirecting server running on port 1112
+[1.0.2020 20:3:16] Server running on port 2222
+[1.0.2020 20:3:17] Socket tuzNa7l7ncxj0viPAAAA connected
+[1.0.2020 20:3:41] Redirecting server running on port 1112
+[1.0.2020 20:3:41] Server running on port 2222
+[1.0.2020 20:3:42] Socket _tRRCdruJLyLJggLAAAA connected
+[1.0.2020 20:4:22] Redirecting server running on port 1112
+[1.0.2020 20:4:22] Server running on port 2222
+[1.0.2020 20:4:23] Socket 1vxbRuIYxPEydnJMAAAA connected
+[1.0.2020 20:4:36] connceted mqtt
+[1.0.2020 20:4:36] Redirecting server running on port 1112
+[1.0.2020 20:4:36] Server running on port 2222
+[1.0.2020 20:4:37] Socket pB4GCwjrNpVBhxdzAAAA connected
+[1.0.2020 20:4:43] Redirecting server running on port 1112
+[1.0.2020 20:4:43] Server running on port 2222
+[1.0.2020 20:4:43] Socket rCX-fz3tLTqW5pLoAAAA connected
+[1.0.2020 20:4:59] Redirecting server running on port 1112
+[1.0.2020 20:4:59] Server running on port 2222
+[1.0.2020 20:5:0] Socket 3XPi0q3oJxZHZZr0AAAA connected
+[1.0.2020 20:5:30] Redirecting server running on port 1112
+[1.0.2020 20:5:30] Server running on port 2222
+[1.0.2020 20:5:31] Socket LsKiEaBgb290ZhvJAAAA connected
+[1.0.2020 20:11:28] Redirecting server running on port 1112
+[1.0.2020 20:11:28] Server running on port 2222
+[1.0.2020 20:11:29] Socket fSvcN1ZWmUwyk15oAAAA connected
+[1.0.2020 20:12:6] Redirecting server running on port 1112
+[1.0.2020 20:12:6] Server running on port 2222
+[1.0.2020 20:12:7] Socket NBrnxj8B4SWrJClfAAAA connected
+[1.0.2020 20:12:39] Redirecting server running on port 1112
+[1.0.2020 20:12:39] Server running on port 2222
+[1.0.2020 20:12:39] Socket VIZsQrBS7w2q6kqBAAAA connected
+[1.0.2020 20:13:44] Redirecting server running on port 1112
+[1.0.2020 20:13:44] Server running on port 2222
+[1.0.2020 20:13:44] Socket 6lQCLai2MWmue9CLAAAA connected
+[1.0.2020 20:14:51] Redirecting server running on port 1112
+[1.0.2020 20:14:51] Server running on port 2222
+[1.0.2020 20:14:52] Socket fr8f2tdTZQ0wlTiHAAAA connected
+[1.0.2020 20:15:8] Redirecting server running on port 1112
+[1.0.2020 20:15:8] Server running on port 2222
+[1.0.2020 20:15:9] Socket M6qIcNWqkqMa0KJPAAAA connected
+[1.0.2020 20:15:35] Redirecting server running on port 1112
+[1.0.2020 20:15:35] Server running on port 2222
+[1.0.2020 20:15:36] Socket tZ4Scem7hD-iSBxDAAAA connected
+[1.0.2020 20:16:52] Redirecting server running on port 1112
+[1.0.2020 20:16:52] Server running on port 2222
+[1.0.2020 20:16:52] Socket IJMVUhcFZdke7rZjAAAA connected
+[1.0.2020 20:16:52] connceted mqtt
+[1.0.2020 20:17:46] Redirecting server running on port 1112
+[1.0.2020 20:17:46] Server running on port 2222
+[1.0.2020 20:17:47] Socket tkrAHPmL89dFnsRbAAAA connected
+[1.0.2020 20:17:47] connceted mqtt
+[1.0.2020 20:17:49] Error: Connection closed
+[1.0.2020 20:18:47] Redirecting server running on port 1112
+[1.0.2020 20:18:47] Server running on port 2222
+[1.0.2020 20:18:47] Socket dmwMbG-EQe0ShqiTAAAA connected
+[1.0.2020 20:18:47] connceted mqtt
+[1.0.2020 20:18:48] Error: Connection closed
+[1.0.2020 20:19:4] Redirecting server running on port 1112
+[1.0.2020 20:19:4] Server running on port 2222
+[1.0.2020 20:19:4] Socket q5zLAbP0zS_EAxXPAAAA connected
+[1.0.2020 20:19:4] connceted mqtt
+[1.0.2020 20:19:5] Error: Connection closed
+[1.0.2020 20:20:28] Redirecting server running on port 1112
+[1.0.2020 20:20:28] Server running on port 2222
+[1.0.2020 20:20:28] Socket LhalwUkmXTrqNpBKAAAA connected
+[1.0.2020 20:20:28] mqtt://127.0.0.1:1883
+[1.0.2020 20:20:28] connceted mqtt
+[1.0.2020 20:20:29] Error: Connection closed
+[1.0.2020 20:21:25] Redirecting server running on port 1112
+[1.0.2020 20:21:25] Server running on port 2222
+[1.0.2020 20:21:27] Socket Gxpi3KU2tzZFbUmiAAAA connected
+[1.0.2020 20:21:27] mqtt://192.168.1.111:1883
+[1.0.2020 20:21:27] connceted mqtt
+[1.0.2020 20:21:27] null
+[1.0.2020 20:21:28] 54.043
+[1.0.2020 20:21:29] 52.582
+[1.0.2020 20:21:30] 53.556
+[1.0.2020 20:21:31] 53.556
+[1.0.2020 20:21:32] 53.556
+[1.0.2020 20:21:33] 52.582
+[1.0.2020 20:21:34] 53.556
+[1.0.2020 20:21:35] 54.043
+[1.0.2020 20:21:36] 53.069
+[1.0.2020 20:21:37] 53.069
+[1.0.2020 20:21:38] 53.556
+[1.0.2020 20:21:39] 54.043
+[1.0.2020 20:21:40] 54.043
+[1.0.2020 20:21:41] 53.069
+[1.0.2020 20:21:42] 53.069
+[1.0.2020 20:21:43] 54.043
+[1.0.2020 20:21:44] 54.043
+[1.0.2020 20:21:45] 54.043
+[1.0.2020 20:21:46] 54.043
+[1.0.2020 20:21:47] 54.043
+[1.0.2020 20:21:48] 52.582
+[1.0.2020 20:21:49] 53.069
+[1.0.2020 20:21:50] 53.069
+[1.0.2020 20:21:51] 54.043
+[1.0.2020 20:21:52] 54.53
+[1.0.2020 20:21:53] 54.043
+[1.0.2020 20:21:54] 53.556
+[1.0.2020 20:21:55] 53.556
+[1.0.2020 20:21:56] Redirecting server running on port 1112
+[1.0.2020 20:21:56] Server running on port 2222
+[1.0.2020 20:21:56] Socket UKibIWzzESDKvcSpAAAA connected
+[1.0.2020 20:21:56] mqtt://192.168.1.111:1883
+[1.0.2020 20:21:56] connceted mqtt
+[1.0.2020 20:21:57] 54.043
+[1.0.2020 20:21:58] 54.043
+[1.0.2020 20:21:59] 54.043
+[1.0.2020 20:22:0] 53.556
+[1.0.2020 20:22:1] 54.043
+[1.0.2020 20:22:2] 53.556
+[1.0.2020 20:22:3] 54.043
+[1.0.2020 20:22:4] 53.556
+[1.0.2020 20:22:5] 54.043
+[1.0.2020 20:22:6] 53.556
+[1.0.2020 20:22:7] 53.069
+[1.0.2020 20:22:8] 54.043
+[1.0.2020 20:22:9] 53.556
+[1.0.2020 20:22:10] 53.069
+[1.0.2020 20:22:11] 54.043
+[1.0.2020 20:22:12] 53.556
+[1.0.2020 20:22:13] 53.069
+[1.0.2020 20:22:14] 54.043
+[1.0.2020 20:22:15] 53.556
+[1.0.2020 20:22:16] 53.069
+[1.0.2020 20:22:17] 53.556
+[1.0.2020 20:22:18] 52.582
+[1.0.2020 20:22:19] 53.556
+[1.0.2020 20:22:20] 53.556
+[1.0.2020 20:22:21] 53.556
+[1.0.2020 20:22:22] 53.556
+[1.0.2020 20:22:23] 53.069
+[1.0.2020 20:22:24] 53.069
+[1.0.2020 20:22:25] 54.043
+[1.0.2020 20:22:26] 52.582
+[1.0.2020 20:22:27] 52.582
+[1.0.2020 20:22:28] 53.556
+[1.0.2020 20:22:29] 53.556
+[1.0.2020 20:22:30] 53.556
+[1.0.2020 20:22:31] 53.556
+[1.0.2020 20:22:32] 53.556
+[1.0.2020 20:22:32] Redirecting server running on port 1112
+[1.0.2020 20:22:32] Server running on port 2222
+[1.0.2020 20:22:33] Socket fPHcAKAtbnronrsDAAAA connected
+[1.0.2020 20:22:33] connceted mqtt
+[1.0.2020 20:22:34] 53.069
+[1.0.2020 20:22:35] 53.556
+[1.0.2020 20:22:36] 53.556
+[1.0.2020 20:22:37] 54.043
+[1.0.2020 20:22:38] 53.069
+[1.0.2020 20:22:39] 54.53
+[1.0.2020 20:22:40] 53.556
+[1.0.2020 20:22:41] 53.069
+[1.0.2020 20:22:42] 54.043
+[1.0.2020 20:22:43] 53.556
+[1.0.2020 20:22:44] 53.069
+[1.0.2020 20:22:45] 54.043
+[1.0.2020 20:22:46] 54.043
+[1.0.2020 20:22:47] 54.043
+[1.0.2020 20:22:48] 54.043
+[1.0.2020 20:22:49] 52.582
+[1.0.2020 20:22:50] 52.582
+[1.0.2020 20:22:51] 54.53
+[1.0.2020 20:22:52] 54.043
+[1.0.2020 20:22:53] 53.556
+[1.0.2020 20:22:54] 53.069
+[1.0.2020 20:22:55] 53.556
+[1.0.2020 20:22:56] 53.069
+[1.0.2020 20:22:57] 53.556
+[1.0.2020 20:22:58] 54.043
+[1.0.2020 20:22:59] 53.556
+[1.0.2020 20:23:0] 53.556
+[1.0.2020 20:23:1] 53.556
+[1.0.2020 20:23:2] 53.556
+[1.0.2020 20:23:3] 53.556
+[1.0.2020 20:23:4] 53.556
+[1.0.2020 20:23:5] 53.556
+[1.0.2020 20:23:6] 54.043
+[1.0.2020 20:23:7] 54.53
+[1.0.2020 20:23:8] 54.043
+[1.0.2020 20:23:9] 54.043
+[1.0.2020 20:23:10] 53.069
+[1.0.2020 20:23:11] 54.043
+[1.0.2020 20:23:12] 53.556
+[1.0.2020 20:23:13] 53.556
+[1.0.2020 20:23:14] 54.043
+[1.0.2020 20:23:15] 53.069
+[1.0.2020 20:23:16] 53.556
+[1.0.2020 20:23:17] 53.556
+[1.0.2020 20:23:18] 54.043
+[1.0.2020 20:23:19] 53.069
+[1.0.2020 20:23:20] 54.043
+[1.0.2020 20:23:21] 54.043
+[1.0.2020 20:23:22] 54.043
+[1.0.2020 20:23:23] 54.53
+[1.0.2020 20:23:24] Redirecting server running on port 1112
+[1.0.2020 20:23:24] Server running on port 2222
+[1.0.2020 20:23:25] Socket w0sLwrjGbfxSpLetAAAA connected
+[1.0.2020 20:23:56] Redirecting server running on port 1112
+[1.0.2020 20:23:56] Server running on port 2222
+[1.0.2020 20:23:57] Socket 2uITdtPNN9hVUM3oAAAA connected
+[1.0.2020 20:23:58] 54.043
+[1.0.2020 20:23:59] 54.043
+[1.0.2020 20:24:0] 53.069
+[1.0.2020 20:24:1] 53.556
+[1.0.2020 20:24:2] 54.043
+[1.0.2020 20:24:6] Redirecting server running on port 1112
+[1.0.2020 20:24:6] Server running on port 2222
+[1.0.2020 20:24:6] Socket 7obIgQO_XE-_918IAAAA connected
+[1.0.2020 20:24:7] 53.556
+[1.0.2020 20:24:8] 54.043
+[1.0.2020 20:24:9] 53.069
+[1.0.2020 20:24:10] 53.069
+[1.0.2020 20:24:11] 52.582
+[1.0.2020 20:24:12] 54.53
+[1.0.2020 20:24:13] 53.556
+[1.0.2020 20:24:14] 54.043
+[1.0.2020 20:24:15] 54.043
+[1.0.2020 20:24:16] 53.556
+[1.0.2020 20:24:17] 54.043
+[1.0.2020 20:24:18] 54.043
+[1.0.2020 20:24:19] 54.043
+[1.0.2020 20:24:20] 53.556
+[1.0.2020 20:24:21] 53.069
+[1.0.2020 20:24:22] 53.556
+[1.0.2020 20:24:23] 53.556
+[1.0.2020 20:24:24] 54.53
+[1.0.2020 20:24:25] 54.043
+[1.0.2020 20:24:26] 53.556
+[1.0.2020 20:24:27] 53.069
+[1.0.2020 20:24:28] 54.043
+[1.0.2020 20:24:29] 54.043
+[1.0.2020 20:24:30] 53.556
+[1.0.2020 20:24:31] 53.556
+[1.0.2020 20:24:32] 54.043
+[1.0.2020 20:24:33] 54.043
+[1.0.2020 20:24:34] 54.043
+[1.0.2020 20:24:35] 54.043
+[1.0.2020 20:24:36] 54.043
+[1.0.2020 20:24:37] 54.043
+[1.0.2020 20:24:38] 54.043
+[1.0.2020 20:24:39] 54.043
+[1.0.2020 20:24:40] 54.53
+[1.0.2020 20:24:41] 54.53
+[1.0.2020 20:24:42] 53.069
+[1.0.2020 20:24:43] 54.043
+[1.0.2020 20:24:44] 54.043
+[1.0.2020 20:24:45] 53.556
+[1.0.2020 20:24:46] 54.53
+[1.0.2020 20:24:47] 53.556
+[1.0.2020 20:24:48] 55.017
+[1.0.2020 20:24:49] 54.53
+[1.0.2020 20:24:50] 53.556
+[1.0.2020 20:24:51] 54.043
+[1.0.2020 20:24:52] 53.069
+[1.0.2020 20:24:53] 54.043
+[1.0.2020 20:24:54] 53.556
+[1.0.2020 20:24:55] 53.556
+[1.0.2020 20:24:56] 53.556
+[1.0.2020 20:24:57] 53.069
+[1.0.2020 20:24:58] 54.043
+[1.0.2020 20:24:59] 53.556
+[1.0.2020 20:25:0] 53.556
+[1.0.2020 20:25:1] 54.043
+[1.0.2020 20:25:2] 53.556
+[1.0.2020 20:25:3] 53.556
+[1.0.2020 20:25:4] 53.556
+[1.0.2020 20:25:5] 53.556
+[1.0.2020 20:25:6] 54.043
+[1.0.2020 20:25:7] 54.043
+[1.0.2020 20:25:8] 54.043
+[1.0.2020 20:25:9] Redirecting server running on port 1112
+[1.0.2020 20:25:9] Server running on port 2222
+[1.0.2020 20:25:10] Socket EUzm9Q6KbukdvkZVAAAA connected
+[1.0.2020 20:28:57] Redirecting server running on port 1112
+[1.0.2020 20:28:57] Server running on port 2222
+[1.0.2020 20:28:57] Socket Mzd-6c8LKM-gWKd1AAAA connected
+[1.0.2020 20:29:53] Socket 7I36CI_1bm88t6EdAAAB connected
+[1.0.2020 20:30:23] subscribed
+[1.0.2020 20:30:23] Redirecting server running on port 1112
+[1.0.2020 20:30:23] Server running on port 2222
+[1.0.2020 20:30:23] Socket nlnnO9KLrMwmowuQAAAA connected
+[1.0.2020 20:30:24] Socket NVRbEQA0dWaJTh7rAAAB connected
+[1.0.2020 20:30:40] Redirecting server running on port 1112
+[1.0.2020 20:30:40] Server running on port 2222
+[1.0.2020 20:30:40] Socket PGLQDPzUa-rUDR4lAAAA connected
+[1.0.2020 20:30:40] Socket reGFiCidopnnPNg5AAAB connected
+[1.0.2020 20:31:17] Redirecting server running on port 1112
+[1.0.2020 20:31:17] Server running on port 2222
+[1.0.2020 20:31:17] Socket AON5x0VkTRkEmc9TAAAA connected
+[1.0.2020 20:31:17] Socket 2N0y7_LO8F6xGq5lAAAB connected
+[1.0.2020 20:31:34] Redirecting server running on port 1112
+[1.0.2020 20:31:34] Server running on port 2222
+[1.0.2020 20:31:34] Socket xODiyRTLUhWnzpDfAAAA connected
+[1.0.2020 20:31:35] Socket x0RXbJnR80qe_BDAAAAB connected
+[1.0.2020 20:43:41] Redirecting server running on port 1112
+[1.0.2020 20:43:41] Server running on port 2222
+[1.0.2020 20:43:44] Socket XkDAeJRQEKkJi1b-AAAA connected
+[1.0.2020 20:44:0] Socket wUVmnPGspNGxkJtRAAAB connected
+[1.0.2020 21:14:51] Redirecting server running on port 1112
+[1.0.2020 21:14:51] Server running on port 2222
