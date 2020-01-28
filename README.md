@@ -6,4 +6,4 @@ Idea of this project was to connect IoT device from local network to Internet.
 ![Data Flow](./Dataflow.jpg)
 
 * Known Bugs:
-  * Nginx Unit doesn't pass WebSocket calls through (doesn't affect performance)
+  * Nginx Unit doesn't pass WebSocket calls through (does NOT affect performance)
