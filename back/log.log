@@ -372,3 +372,197 @@ Body:   {}
 [1.0.2020 20:44:0] Socket wUVmnPGspNGxkJtRAAAB connected
 [1.0.2020 21:14:51] Redirecting server running on port 1112
 [1.0.2020 21:14:51] Server running on port 2222
+[2.0.2020 11:23:38] Redirecting server running on port 1112
+[2.0.2020 11:23:38] Server running on port 2222
+[2.0.2020 11:48:19] Socket AZf3QeH3okgIdNUxAAAA connected
+[2.0.2020 11:48:54] Socket Grh_CSDqNl-z_o8CAAAB connected
+[2.0.2020 11:49:38] Socket Q7lfepdY5E5oNaTqAAAC connected
+[2.0.2020 11:50:52] Socket t-2QuH-fX3kLPE9NAAAD connected
+[2.0.2020 11:51:43] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[2.0.2020 11:51:43] Socket h8H4VPvj6gIBOMJuAAAE connected
+[2.0.2020 11:51:43] 
+Method: GET
+Path:   /favicon.ico
+Body:   {}
+---
+[2.0.2020 11:52:59] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[2.0.2020 11:52:59] Socket X_K42H2YqXHlMFV6AAAF connected
+[2.0.2020 11:53:8] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[2.0.2020 11:53:8] Socket 0o7sCZkIM7V1Sw8tAAAG connected
+[2.0.2020 11:53:55] Redirecting server running on port 1112
+[2.0.2020 11:53:55] Server running on port 2222
+[2.0.2020 11:53:55] Socket BUK7ZNlR7Q7uMlxdAAAA connected
+[2.0.2020 11:54:20] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[2.0.2020 11:54:20] Socket BUK7ZNlR7Q7uMlxdAAAA disconnected
+[2.0.2020 11:54:20] Socket d53nowFrPwnMtS10AAAB connected
+[2.0.2020 11:56:50] 
+Method: GET
+Path:   /
+Body:   {}
+---
+[2.0.2020 11:56:50] Socket d53nowFrPwnMtS10AAAB disconnected
+[2.0.2020 11:56:50] Socket UeigNI6yNIZD1aoPAAAC connected
+[2.0.2020 11:57:5] Socket yBQr9hIBB6YtR-YvAAAD connected
+[2.0.2020 11:57:5] Socket l_oSS8b9axNfGgopAAAE connected
+[2.0.2020 11:57:6] Socket lSIPdIArIZy1GJ_lAAAF connected
+[2.0.2020 11:57:7] Socket DYtHMwmec9xwjFLGAAAG connected
+[2.0.2020 11:57:8] Socket QGfbjXDtEuT0WF7fAAAH connected
+[2.0.2020 11:57:9] Socket Qhe8ePlciUJa_1qLAAAI connected
+[2.0.2020 11:57:11] Socket jo1YSt_yBll-ycrRAAAJ connected
+[2.0.2020 11:57:13] Socket Bhy3GjolmyPvBratAAAK connected
+[2.0.2020 11:57:16] Socket ojwUMY6o8fW4-RAfAAAL connected
+[2.0.2020 11:57:17] Socket J340FtASU99V4nHxAAAM connected
+[2.0.2020 11:57:18] Socket BBeXwq7rZvFKeu8MAAAN connected
+[2.0.2020 11:57:19] Socket bZsCK44K_H8KmfLzAAAO connected
+[2.0.2020 11:57:21] Socket HL66sH-bFlGQw7xQAAAP connected
+[2.0.2020 11:57:23] Socket UzxUIusEjgv5OPweAAAQ connected
+[2.0.2020 11:57:24] Socket 7Uq_-JSqbk5d_xnUAAAR connected
+[2.0.2020 11:57:28] Socket 00Csiq1ZzNzXc5aLAAAS connected
+[2.0.2020 11:57:29] Socket yQrmN5UGnsBVIztiAAAT connected
+[2.0.2020 11:57:31] Socket xDEGUxonxSgjSzCcAAAU connected
+[2.0.2020 11:57:32] Socket xDEGUxonxSgjSzCcAAAU disconnected
+[2.0.2020 11:57:32] Socket 7Uq_-JSqbk5d_xnUAAAR disconnected
+[2.0.2020 11:57:32] Socket 00Csiq1ZzNzXc5aLAAAS disconnected
+[2.0.2020 11:57:32] Socket yQrmN5UGnsBVIztiAAAT disconnected
+[2.0.2020 11:57:32] Socket UzxUIusEjgv5OPweAAAQ disconnected
+[2.0.2020 11:57:32] Socket jo1YSt_yBll-ycrRAAAJ disconnected
+[2.0.2020 11:57:32] Socket Qhe8ePlciUJa_1qLAAAI disconnected
+[2.0.2020 11:57:32] Socket Bhy3GjolmyPvBratAAAK disconnected
+[2.0.2020 11:57:32] Socket BBeXwq7rZvFKeu8MAAAN disconnected
+[2.0.2020 11:57:32] Socket J340FtASU99V4nHxAAAM disconnected
+[2.0.2020 11:57:32] Socket bZsCK44K_H8KmfLzAAAO disconnected
+[2.0.2020 11:57:32] Socket DYtHMwmec9xwjFLGAAAG disconnected
+[2.0.2020 11:57:32] Socket HL66sH-bFlGQw7xQAAAP disconnected
+[2.0.2020 11:57:32] Socket l_oSS8b9axNfGgopAAAE disconnected
+[2.0.2020 11:57:32] Socket yBQr9hIBB6YtR-YvAAAD disconnected
+[2.0.2020 11:57:32] Socket lSIPdIArIZy1GJ_lAAAF disconnected
+[2.0.2020 11:57:32] Socket QGfbjXDtEuT0WF7fAAAH disconnected
+[2.0.2020 11:57:32] Socket ojwUMY6o8fW4-RAfAAAL disconnected
+[2.0.2020 11:58:11] Socket wOFqnL9IlWPTLKo3AAAV connected
+[2.0.2020 11:58:57] Socket wOFqnL9IlWPTLKo3AAAV disconnected
+[2.0.2020 11:58:57] Socket 9LXUt-Vm7vNIhnH-AAAW connected
+[2.0.2020 11:59:32] Socket 9LXUt-Vm7vNIhnH-AAAW disconnected
+[2.0.2020 11:59:32] Socket 9-3wLE_9VyXVQhCpAAAX connected
+[2.0.2020 12:6:49] Socket 9-3wLE_9VyXVQhCpAAAX disconnected
+[2.0.2020 12:7:8] Socket UeigNI6yNIZD1aoPAAAC disconnected
+[2.0.2020 12:35:10] Socket xb768baG1AyWjx3zAAAY connected
+[2.0.2020 12:36:43] Socket xb768baG1AyWjx3zAAAY disconnected
+[2.0.2020 12:36:43] Socket FbbUKggRQ5oAWgW0AAAZ connected
+[2.0.2020 12:38:10] Socket FbbUKggRQ5oAWgW0AAAZ disconnected
+[2.0.2020 12:38:10] Socket UF1gScIj6TN04bX-AAAa connected
+[2.0.2020 12:39:44] Socket UF1gScIj6TN04bX-AAAa disconnected
+[2.0.2020 12:39:45] Socket 9xrjoCZqu4JrNa4QAAAb connected
+[2.0.2020 12:40:0] Socket 9xrjoCZqu4JrNa4QAAAb disconnected
+[2.0.2020 12:40:1] Socket n8dGvobRsYiaQQ5qAAAc connected
+[2.0.2020 12:40:14] Socket n8dGvobRsYiaQQ5qAAAc disconnected
+[2.0.2020 12:40:15] Socket PYseL9h3lWRXc2FaAAAd connected
+[2.0.2020 12:44:24] Socket PYseL9h3lWRXc2FaAAAd disconnected
+[2.0.2020 12:44:24] Socket BdhEJNlTVp2XCZQfAAAe connected
+[2.0.2020 12:44:41] Socket BdhEJNlTVp2XCZQfAAAe disconnected
+[2.0.2020 12:44:41] Socket YBnbshgfBnagnoyGAAAf connected
+[2.0.2020 12:45:10] Socket YBnbshgfBnagnoyGAAAf disconnected
+[2.0.2020 12:45:10] Socket rmScX20cfNxZCwEBAAAg connected
+[2.0.2020 12:45:19] Socket rmScX20cfNxZCwEBAAAg disconnected
+[2.0.2020 12:45:19] Socket vumG1mrJ_NR48d2_AAAh connected
+[2.0.2020 12:45:30] Socket vumG1mrJ_NR48d2_AAAh disconnected
+[2.0.2020 12:45:30] Socket DKS0erChgOzj4EmGAAAi connected
+[2.0.2020 12:46:32] Socket DKS0erChgOzj4EmGAAAi disconnected
+[2.0.2020 12:46:32] Socket d5wVdz-6QQOmsqJUAAAj connected
+[2.0.2020 12:46:37] Socket d5wVdz-6QQOmsqJUAAAj disconnected
+[2.0.2020 12:46:37] Socket VBLV8TTe4kFUzH36AAAk connected
+[2.0.2020 12:46:43] Socket VBLV8TTe4kFUzH36AAAk disconnected
+[2.0.2020 12:46:44] Socket 0uSjgNvViBrofd5hAAAl connected
+[2.0.2020 12:47:39] Socket 0uSjgNvViBrofd5hAAAl disconnected
+[2.0.2020 12:47:39] Socket FA3ev6IZTixafTywAAAm connected
+[2.0.2020 12:47:58] Socket FA3ev6IZTixafTywAAAm disconnected
+[2.0.2020 12:47:58] Socket UMuQeIuJ2z5tLIm6AAAn connected
+[2.0.2020 12:48:10] Socket UMuQeIuJ2z5tLIm6AAAn disconnected
+[2.0.2020 12:48:10] Socket fmrhWBBOqasa3vafAAAo connected
+[2.0.2020 12:48:44] Socket fmrhWBBOqasa3vafAAAo disconnected
+[2.0.2020 12:48:44] Socket 8oxRwPAkf4JGpZ89AAAp connected
+[2.0.2020 12:48:51] Socket 8oxRwPAkf4JGpZ89AAAp disconnected
+[2.0.2020 12:48:51] Socket hucwcwQNPSTD07NxAAAq connected
+[2.0.2020 12:49:11] Socket hucwcwQNPSTD07NxAAAq disconnected
+[2.0.2020 12:49:11] Socket XW-BTPMiDe-nXNC8AAAr connected
+[2.0.2020 12:49:59] Socket XW-BTPMiDe-nXNC8AAAr disconnected
+[2.0.2020 12:49:59] Socket loptl-ZC2_AM7SB8AAAs connected
+[2.0.2020 12:50:42] Socket loptl-ZC2_AM7SB8AAAs disconnected
+[2.0.2020 12:50:42] Socket WhC8HaSlKL8qq9EnAAAt connected
+[2.0.2020 13:0:45] Socket WhC8HaSlKL8qq9EnAAAt disconnected
+[2.0.2020 13:0:46] Socket Nu3bH2ZjROzQvK6dAAAu connected
+[2.0.2020 13:0:57] Socket Nu3bH2ZjROzQvK6dAAAu disconnected
+[2.0.2020 13:0:58] Socket blqEJ64sWH8YLwwwAAAv connected
+[2.0.2020 13:2:4] Socket blqEJ64sWH8YLwwwAAAv disconnected
+[2.0.2020 13:2:4] Socket luOxRPN3eCK8YzryAAAw connected
+[2.0.2020 13:2:10] Socket luOxRPN3eCK8YzryAAAw disconnected
+[2.0.2020 13:2:10] Socket dcLbVfdwEcjAd5_FAAAx connected
+[2.0.2020 13:2:39] Socket dcLbVfdwEcjAd5_FAAAx disconnected
+[2.0.2020 13:2:39] Socket Zy34Ges3_lEYo-BSAAAy connected
+[2.0.2020 13:2:56] Socket Zy34Ges3_lEYo-BSAAAy disconnected
+[2.0.2020 13:2:56] Socket pEzhu8nJVdMZPnOFAAAz connected
+[2.0.2020 13:3:30] Socket pEzhu8nJVdMZPnOFAAAz disconnected
+[2.0.2020 13:3:30] Socket ETCg_0xAZFcdH1iwAAA0 connected
+[2.0.2020 13:4:17] Socket ETCg_0xAZFcdH1iwAAA0 disconnected
+[2.0.2020 13:4:17] Socket vzzs4nkKk7R4BsTxAAA1 connected
+[2.0.2020 13:4:30] Socket vzzs4nkKk7R4BsTxAAA1 disconnected
+[2.0.2020 13:4:30] Socket k0zo8zR_aBpO7p92AAA2 connected
+[2.0.2020 13:6:30] Socket k0zo8zR_aBpO7p92AAA2 disconnected
+[2.0.2020 13:6:31] Socket P_SW7en3TwlpdrSNAAA3 connected
+[2.0.2020 13:6:50] Socket P_SW7en3TwlpdrSNAAA3 disconnected
+[2.0.2020 13:6:51] Socket HBl7XJcdftIDZcOPAAA4 connected
+[2.0.2020 13:7:29] Socket HBl7XJcdftIDZcOPAAA4 disconnected
+[2.0.2020 13:7:29] Socket jpsCKStWlOqzGGm3AAA5 connected
+[2.0.2020 13:8:8] Socket jpsCKStWlOqzGGm3AAA5 disconnected
+[2.0.2020 13:8:8] Socket aRAanyOvn5hTGJ29AAA6 connected
+[2.0.2020 13:9:27] Socket aRAanyOvn5hTGJ29AAA6 disconnected
+[2.0.2020 13:9:28] Socket JaLubRerDHmbAOoLAAA7 connected
+[2.0.2020 13:11:11] Socket JaLubRerDHmbAOoLAAA7 disconnected
+[2.0.2020 13:11:11] Socket 6jBumqonlQiy4W3TAAA8 connected
+[2.0.2020 13:11:49] Socket 6jBumqonlQiy4W3TAAA8 disconnected
+[2.0.2020 13:11:49] Socket wCAm1SAvMJw7Uk8wAAA9 connected
+[2.0.2020 13:11:54] Socket wCAm1SAvMJw7Uk8wAAA9 disconnected
+[2.0.2020 13:11:54] Socket 5pV4lvWj8G5LrcySAAA- connected
+[2.0.2020 13:14:50] Socket 5pV4lvWj8G5LrcySAAA- disconnected
+[2.0.2020 13:14:50] Socket dr50i1VlXCGspJOJAAA_ connected
+[2.0.2020 13:17:24] Socket dr50i1VlXCGspJOJAAA_ disconnected
+[2.0.2020 13:17:25] Socket 03n-jenWVI8gcgmZAABA connected
+[2.0.2020 13:17:43] Socket 03n-jenWVI8gcgmZAABA disconnected
+[2.0.2020 13:17:44] Socket 3AFR8HddKAQVAt1cAABB connected
+[2.0.2020 13:19:42] Socket 3AFR8HddKAQVAt1cAABB disconnected
+[2.0.2020 13:19:42] Socket aSuBDEF3AzJRtFrZAABC connected
+[2.0.2020 13:21:42] Socket aSuBDEF3AzJRtFrZAABC disconnected
+[2.0.2020 13:21:42] Socket 1IA3sM937hiZ0y1gAABD connected
+[2.0.2020 13:22:8] Socket 1IA3sM937hiZ0y1gAABD disconnected
+[2.0.2020 13:22:8] Socket 7mCuIUMT7H_Djdy4AABE connected
+[2.0.2020 13:23:23] Socket 7mCuIUMT7H_Djdy4AABE disconnected
+[2.0.2020 13:23:24] Socket UkHWRH-o_1v5Z1F1AABF connected
+[2.0.2020 13:24:38] Socket UkHWRH-o_1v5Z1F1AABF disconnected
+[2.0.2020 13:24:38] Socket SZwL8cbrea5Uhf4nAABG connected
+[2.0.2020 13:27:38] Socket SZwL8cbrea5Uhf4nAABG disconnected
+[2.0.2020 13:27:38] Socket zLr_mo2loM3ZpIupAABH connected
+[2.0.2020 13:40:48] Socket zLr_mo2loM3ZpIupAABH disconnected
+[2.0.2020 13:40:48] Socket _WQnzQ1v2eYi5Ao7AABI connected
+[2.0.2020 13:42:0] Socket _WQnzQ1v2eYi5Ao7AABI disconnected
+[2.0.2020 13:42:0] Socket d1-lcaHXZaj9XBn6AABJ connected
+[2.0.2020 13:45:24] Socket d1-lcaHXZaj9XBn6AABJ disconnected
+[2.0.2020 13:45:24] Socket oJxd8U5R8q4F8tzeAABK connected
+[2.0.2020 13:57:30] Redirecting server running on port 1112
+[2.0.2020 13:57:30] Server running on port 2222
+[2.0.2020 13:57:30] Socket tVS0lz7eb_ioS9r2AAAA connected
+[2.0.2020 14:4:39] Socket tVS0lz7eb_ioS9r2AAAA disconnected

@@ -5,11 +5,10 @@ module.exports = (io) => {
     console.log(`Socket ${socket.id} connected`);
 
     mqtt.on('message', (topic, message) => {
-      //console.log(message);
       socket.emit('raspberry-cpu-data', message.toString());
     })
 
-    socket.on('close', async () => {
+    socket.on('disconnect', async () => {
       console.log(`Socket ${socket.id} disconnected`)
     })
   });
