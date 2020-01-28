@@ -24,8 +24,6 @@ const config = require('./config');
 const middleware = require('./utils/middleware');
 
 app.use(bodyParser.json());
-app.use(cors());
-app.options('*', cors());
 
 app.use(middleware.requestLogger);
 app.use(middleware.errorHandler);
