@@ -7,6 +7,7 @@ const Thermometer = (props) => {
   return(
     <div className={props.className}>
       <GaugeChart
+        className={"Thermometer-Gauge"}
         id={props.id}
         percent={+props.value}
         hideText={true}

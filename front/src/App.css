@@ -8,7 +8,7 @@
   margin: 2rem auto 0 auto
 }
 
-#chart-1 {
+.Thermometer-Gauge {
   margin: auto;
   width: 80% !important;
 }
@@ -56,7 +56,7 @@ h2{
 
   }
 
-  #chart-1 {
+  .Thermometer-Gauge {
     margin: auto;
     width: 100% !important;
   }

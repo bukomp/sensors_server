@@ -6,7 +6,7 @@ module.exports = (io) => {
     console.log(`Socket ${socket.id} connected`);
 
     const interval = setInterval(async () => {
-      socket.emit('server-cpu-data', (await serverData.getCPUTemp()).toString());
+      socket.emit('server-cpu-data', serverData.getCPUTemp());
     }, 1000);
 
     mqtt.on('message', (topic, message) => {
