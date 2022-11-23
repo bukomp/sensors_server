@@ -19,7 +19,7 @@
     "https": "^1.0.0",
     "mqtt": "^3.0.0",
     "nodemon": "^2.0.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "systeminformation": "^4.22.3"
   }
 }
